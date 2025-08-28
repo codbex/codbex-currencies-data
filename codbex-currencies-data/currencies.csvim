@@ -3,12 +3,24 @@
     {
       "table": "CODBEX_CURRENCY",
       "schema": "PUBLIC",
-      "file": "/codbex-currencies-data/data/currencies.csv",
+      "file": "/codbex-currencies-data/currencies.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true
+      "distinguishEmptyFromNull": true,
+      "version": "1.0.0"
+    },
+    {
+      "table": "CODBEX_CURRENCY_LANG",
+      "schema": "PUBLIC",
+      "file": "/codbex-currencies-data/currencies-lang.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0.0"
     }
   ]
 }
