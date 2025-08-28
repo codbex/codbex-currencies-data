@@ -1,0 +1,11 @@
+{
+    "name": "@codbex/codbex-currencies-data",
+    "version": "0.6.0",
+    "repository": {
+        "url": "https://github.com/codbex/codbex-currencies-data.git",
+        "type": "git"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    }
+}
