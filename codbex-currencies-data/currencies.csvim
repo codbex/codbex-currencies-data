@@ -3,7 +3,7 @@
     {
       "table": "CODBEX_CURRENCY",
       "schema": "PUBLIC",
-      "file": "/codbex-currencies-data/currencies/currencies.csv",
+      "file": "/codbex-currencies-data/currencies/data.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -15,7 +15,7 @@
     {
       "table": "CODBEX_CURRENCY_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-currencies-data/currencies/currencies-lang.csv",
+      "file": "/codbex-currencies-data/currencies/lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
