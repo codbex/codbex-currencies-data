@@ -6,7 +6,7 @@
 
 ## 📦 Data 
 
-* [Currencies]([https://github.com/codbex/codbex-uoms-data/tree/main/codbex-uoms-data/dimension](https://github.com/codbex/codbex-currencies-data/tree/main/codbex-currencies-data/currencies))
+* [Currencies]([https://github.com/codbex/codbex-uoms-data/tree/main/codbex-uoms-data/dimension](https://github.com/codbex/codbex-currencies-data/tree/main/codbex-currencies-data/currencies)
 
 ## 🐳 Local Development with Docker
 
