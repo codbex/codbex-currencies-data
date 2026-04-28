@@ -1,11 +1,14 @@
-# codbex-currencies-data
-Currencies Management Data
+# <img src="https://www.codbex.com/icon.svg" width="32" style="vertical-align: middle;"> codbex-currencies-data
 
-## Overview
+## 📖 Table of Contents
+* [📦 Data](#-data)
+* [🐳 Local Development with Docker](#-local-development-with-docker)
 
-Contains a set of currencies to be used by applications.
+## 📦 Data 
 
-## Local Development with Docker
+* [Currencies](https://github.com/codbex/codbex-currencies-data/tree/main/codbex-currencies-data/currencies)
+
+## 🐳 Local Development with Docker
 
 When running this project inside the codbex Atlas Docker image, you must provide authentication for installing dependencies from GitHub Packages.
 1. Create a GitHub Personal Access Token (PAT) with `read:packages` scope.
